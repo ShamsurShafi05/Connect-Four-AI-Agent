@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test files
+test*.py
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment
+venv/
+env/
